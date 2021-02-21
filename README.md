@@ -24,7 +24,7 @@ Note that all bash commands should continue working on PowerShell session.
 
 ### Recommended Training and Reading
 
-- Microsoft Virtual Academy: [Getting Started with PowerShell][getstarted-with-powershell]
+- .[Microsoft] (https://docs.microsoft.com/en-us/powershell/scripting/learn/more-powershell-learning?view=powershell-7.1)
 - [Why Learn PowerShell][why-learn-powershell] by Ed Wilson
 - PowerShell Web Docs: [Basic cookbooks][basic-cookbooks]
 - [The Guide to Learning PowerShell][ebook-from-Idera] by Tobias Weltner
