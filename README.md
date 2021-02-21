@@ -35,7 +35,7 @@ Note that all bash commands should continue working on PowerShell session.
 - [PowerShell Documentation](https://docs.microsoft.com/powershell)
 - [Interactive learning with PSKoans](https://aka.ms/pskoans)
 
-## Find user ID by lastname (can also try GivenName for the first name)
+`Find user ID by lastname (can also try GivenName for the first name)`
 
   ````powershell
   Get-ADUser -Filter { Surname -like "Smith" }
