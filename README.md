@@ -1,5 +1,3 @@
-Collection of used PowerShell code
-
 The table below lists the usage of some basic commands to help you get started on PowerShell faster.
 Note that all bash commands should continue working on PowerShell session.
 
@@ -29,6 +27,7 @@ Note that all bash commands should continue working on PowerShell session.
 [in-action]: https://docs.microsoft.com/en-us/powershell/scripting/learn/more-powershell-learning?view=powershell-7.1
 [cookbook]: http://shop.oreilly.com/product/9780596801519.do
 
+##Collection of used PowerShell code
 `Find user ID by lastname (can also try GivenName for the first name)`
 
   ````powershell
