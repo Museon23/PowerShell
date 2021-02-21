@@ -24,16 +24,9 @@ Note that all bash commands should continue working on PowerShell session.
 
 ### Recommended Training and Reading
 
-- .[Microsoft] (https://docs.microsoft.com/en-us/powershell/scripting/learn/more-powershell-learning?view=powershell-7.1)
-- [Why Learn PowerShell][why-learn-powershell] by Ed Wilson
-- PowerShell Web Docs: [Basic cookbooks][basic-cookbooks]
-- [The Guide to Learning PowerShell][ebook-from-Idera] by Tobias Weltner
-- [PowerShell-related Videos][channel9-learn-powershell] on Channel 9
-- [PowerShell Quick Reference Guides][quick-reference] by PowerShellMagazine.com
-- [Learn PowerShell Video Library][idera-learn-powershell] from Idera
-- [PowerShell 5 How-To Videos][script-guy-how-to] by Ed Wilson
-- [PowerShell Documentation](https://docs.microsoft.com/powershell)
-- [Interactive learning with PSKoans](https://aka.ms/pskoans)
+- [Microsoft PowerShell 7.1 Learning] [microsoft]
+
+[microsoft]: https://docs.microsoft.com/en-us/powershell/scripting/learn/more-powershell-learning?view=powershell-7.1
 
 `Find user ID by lastname (can also try GivenName for the first name)`
 
