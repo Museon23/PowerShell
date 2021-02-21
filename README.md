@@ -23,10 +23,11 @@ Note that all bash commands should continue working on PowerShell session.
 | curl https://github.com         | Invoke-RestMethod https://github.com    | Transfer data to or from the web
 
 ### Recommended Training and Reading
+- [Windows PowerShell in Action][in-action] by Bruce Payette
+- [Windows PowerShell Cookbook][cookbook] by Lee Holmes
 
-- [Microsoft PowerShell 7.1 Learning] [microsoft]
-
-[microsoft]: https://docs.microsoft.com/en-us/powershell/scripting/learn/more-powershell-learning?view=powershell-7.1
+[in-action]: https://www.amazon.com/Windows-PowerShell-Action-Bruce-Payette/dp/1633430294
+[cookbook]: http://shop.oreilly.com/product/9780596801519.do
 
 `Find user ID by lastname (can also try GivenName for the first name)`
 
