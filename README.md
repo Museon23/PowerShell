@@ -23,7 +23,7 @@ Note that all bash commands should continue working on PowerShell session.
 | curl https://github.com         | Invoke-RestMethod https://github.com    | Transfer data to or from the web
 
 ### Recommended Training and Reading
-- [Windows PowerShell 7.1 Learning][in-action] by Bruce Payette
+- [Windows PowerShell 7.1 Learning][in-action]
 - [Windows PowerShell Cookbook][cookbook] by Lee Holmes
 
 [in-action]: https://docs.microsoft.com/en-us/powershell/scripting/learn/more-powershell-learning?view=powershell-7.1
